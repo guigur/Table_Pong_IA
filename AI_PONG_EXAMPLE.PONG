@@ -1,0 +1,42 @@
+{
+    "AI_name" : "IA demo",
+    "AI_description" : "A description.",
+    "AI_version" : "1",
+    "authors_logins" : [
+      "guillaume.arthaud@epitech.eu",
+      "pierre-alexis.lebair@epitech.eu"
+    ],
+    "AI_react" : 500,
+    "AI_precision" : 80,
+    "AI_error": 5,
+    "AI_speed" : 80,
+    "AI_wavs" : {
+      "AI_wait_for_ready" : [
+
+      ],
+      "AI_on_menu" : [
+
+      ],
+      "AI_on_menu_selected" : [
+
+      ],
+      "AI_on_start"  : [
+
+      ],
+      "AI_on_round_loose"  : [
+
+      ],
+      "AI_on_round_win"  : [
+
+      ],
+      "AI_taunts" : [
+
+      ],
+      "AI_on_win"  : [
+
+      ],
+      "AI_on_loose"  : [
+
+      ],
+    }
+}
